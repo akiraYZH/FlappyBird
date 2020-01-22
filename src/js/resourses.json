@@ -1,0 +1,21 @@
+{
+    "bg_day":"../img/bg_day.png",
+    "bg_night":"../img/bg_night.png",
+    "floor":"../img/floor.png",
+    "pipe_top":"../img/tube_top.png",
+    "pipe_bottom":"../img/tube_bottom.png",
+    "yellow1":"../img/yellow1.png",
+    "yellow2":"../img/yellow2.png",
+    "yellow3":"../img/yellow3.png",
+    "blue1":"../img/blue1.png",
+    "blue2":"../img/blue2.png",
+    "blue3":"../img/blue3.png",
+    "red1":"../img/red1.png",
+    "red2":"../img/red2.png",
+    "red3":"../img/red3.png",
+    "title":"../img/title.png",
+    "tutorial":"../img/tutorial.png",
+    "gameover":"../img/gameover.png",
+    "resume":"../img/count.png",
+    "confirm":"../img/confirm.png"
+}
