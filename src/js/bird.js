@@ -77,7 +77,7 @@ class Bird extends GameElement {
         this.x=game.viewHeight/8;
         this.y=game.viewHeight/3;
         this.downSpeed = 0;
-        this.gravity =34 * (game.viewHeight/512)*parseFloat((game._interval/1000).toFixed(2));
+        this.gravity =29 * (game.viewHeight/512)*parseFloat((game._interval/1000).toFixed(2));
         this.jump();
     }
 
