@@ -1,1 +1,1 @@
-baseurl: "/wheel/dist/html" # the subpath of your site, e.g. /blog
+baseurl: "/flappyBird/dist/html" # the subpath of your site, e.g. /blog
