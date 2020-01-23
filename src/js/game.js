@@ -49,6 +49,7 @@ class Game{
                         count++;
                         //write lodaing text
                         this.ctx.font='30px impact';
+                        this.ctx.fillStyle='white';
                         this.ctx.textAlign='center';
                         this.ctx.fillText(`Loading...(${count}/${imgsAmount})`,this.viewWidth/2, this.viewHeight*(1-0.618));
 
@@ -122,7 +123,7 @@ class Game{
             this.ctx.fillText('Best: '+this.best, this.viewWidth*7/8,38);
             this.ctx.restore();
 
-            
+
         }, this._interval);
     }
 
