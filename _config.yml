@@ -1,1 +1,1 @@
-baseurl: "/dist/html" # the subpath of your site, e.g. /blog
+baseurl: "/dist" # the subpath of your site, e.g. /blog
